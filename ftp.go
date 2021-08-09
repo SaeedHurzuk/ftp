@@ -1,4 +1,5 @@
 package github.com/SaeedHurzuk/ftp
+
 import "fmt"
 
 func test() string {
