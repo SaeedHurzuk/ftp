@@ -1,4 +1,4 @@
-package github.com/SaeedHurzuk/ftp
+package ftp
 
 import "fmt"
 
