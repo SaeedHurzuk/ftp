@@ -1,1 +1,1 @@
-module ftp
+module github.com/SaeedHurzuk/ftp
