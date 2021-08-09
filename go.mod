@@ -1,1 +1,1 @@
-module github.com/SaeedHurzuk/golang-ftp
+module ftp
